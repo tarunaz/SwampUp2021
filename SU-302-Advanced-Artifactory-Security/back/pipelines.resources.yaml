@@ -1,10 +1,11 @@
 resources:
+  - name:
   #Gradle Application
   - name: source_code
     type: GitRepo
     configuration:
       gitProvider: github
-      path: chanti529/SwampUp2021
+      path: tarunaz/SwampUp2021
       branches:
         include: main
 
