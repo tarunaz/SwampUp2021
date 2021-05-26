@@ -1,5 +1,4 @@
 resources:
-  - name:
   #Gradle Application
   - name: source_code
     type: GitRepo
